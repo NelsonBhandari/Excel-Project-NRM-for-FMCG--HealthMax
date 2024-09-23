@@ -62,3 +62,5 @@ The NRM initiatives are projected to generate approximately $600,000 more in net
 ---
 
 This project showcases my ability to leverage data-driven insights for strategic decision-making in the FMCG sector, demonstrating proficiency in both technical analysis and business strategy formulation.
+
+More projects to follow
